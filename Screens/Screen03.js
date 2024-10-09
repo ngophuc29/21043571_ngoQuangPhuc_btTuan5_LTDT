@@ -25,7 +25,7 @@ const Screen03 = ({ navigation }) => {
                     color="#000"
                     onPress={() => { navigation.navigate("Screen01") }}
                 /> */}
-                <Image source={require("../assets/Data/Image 20.png")} style={{ height: 200, width: '100%' }} />
+                <Image source={require("../assets/Data/Image20.png")} style={{ height: 200, width: '100%' }} />
             </View>
 
 

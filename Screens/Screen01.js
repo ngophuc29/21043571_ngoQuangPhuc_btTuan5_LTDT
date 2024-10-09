@@ -12,7 +12,7 @@ const Screen01 = ({ navigation }) => {
             <View
                 style={{ flexDirection: 'row', justifyContent: 'center', marginVertical: 30 }}
             >
-                <Image source={require('../assets/Data/Container 17.png')}
+                <Image source={require('../assets/Data/Container17.png')}
 
                     height={100}
                 ></Image>
